@@ -1,2 +1,1 @@
-Welcome to the World of Coffee! In this notebook, we will be exploring the top rated coffee brands, and their origins and roast types. We will use the simplified_coffee.csv dataset to analyze the ratings and see which brands, origins, and roast types come out on top.
-
+We dive into the realm of coffee in this project by meticulously analyzing the top rated coffee brands, their origins, the various roast types they offer, price determinants and locations to find the best coffee. We unravel insights on ratings, identifying the crème de la crème in terms of brands, origins, and roast types and embark on a flavorful journey of data-driven discovery within the world of coffee connoisseurship.
